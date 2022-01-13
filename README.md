@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edgar-Padilla
 - 👀 I’m interested in Data Base and Developer Web
 - 🌱 I’m currently learning  Ruby and  C#
-- 💞️ I’m looking to collaborate on  proyectos de desarrollo web y base de datos
+- 💞️ I’m looking to collaborate on  Data Base and Developer Web
 - 📫 How to reach me  edgarpluis@gmail.com
 
 <!---
